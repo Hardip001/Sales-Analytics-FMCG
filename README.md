@@ -3,7 +3,7 @@
 ##  Sales Report
 **Project objective:**
 
-1. Create a [customer performance report]()
+1. Create a [customer performance report](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Customer%20Performance%20Report.pdf)
 
 2. Conduct a comprehensive comparison between [market performance vs sales targets]()
 
