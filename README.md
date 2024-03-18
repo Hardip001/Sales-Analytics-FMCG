@@ -14,13 +14,13 @@
 ## Finance Report:
 **Project Goals:**
 
-1.**Profit and Loss (P&L) Reports:** [Created P&L reports by fiscal years](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [P&L reports by fiscal months](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Months.pdf).
+1. **Profit and Loss (P&L) Reports:** [Created P&L reports by fiscal years](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [P&L reports by fiscal months](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Months.pdf).
 
 2.**P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
-**Importance of Finance Data Analysis:** Benchmarking against industry peers, historical periods, and establishing the foundation for budgeting and forecasting.
+**Importance of Finance Data Analysis:** Benchmarking against industry peers, and historical periods, and establishing the foundation for budgeting and forecasting.
 
 **Reports' Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
