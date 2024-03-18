@@ -5,7 +5,7 @@
 
 1. Create a [customer performance report]()
 
-2. Conduct a comprehensive comparison between market performance vs sales targets
+2. Conduct a comprehensive comparison between [market performance vs sales targets]()
 
  ● **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -16,9 +16,9 @@
 ##  Finance Report
 **Project objective:**
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year
+1. Create Profit and Loss (P&L) reports by [Fiscal Year]()
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by [Markets]()
 
 ● **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
