@@ -14,7 +14,7 @@
 ## Finance Report:
 **Project Goals:**
 
-1.**Profit and Loss (P&L) Reports:** Created P&L reports by fiscal years and P&L reports by fiscal months.
+1.**Profit and Loss (P&L) Reports:** [Created P&L reports by fiscal years](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and P&L reports by fiscal months.
 
 2.**P&L Reports by Markets:** Generated P&L reports categorized by markets.
 
