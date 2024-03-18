@@ -26,8 +26,8 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-##  Technical Skills Gained
- Proficiency in ETL methodology (Extract, Transform, Load).
+##  Technical Skills Gained:
+✅️ Proficiency in ETL methodology (Extract, Transform, Load).
  Skills to generate a date table using Power Query.
  Ability to derive fiscal months and quarters.
  Establishing data model relationships with Power Pivot.
