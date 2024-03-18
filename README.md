@@ -5,7 +5,7 @@
 
 1. Create a [customer performance report](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Customer%20Performance%20Report.pdf)
 
-2. Conduct a comprehensive comparison between [market performance vs sales targets]()
+2. Conduct a comprehensive comparison between [market performance vs sales targets](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
  ● **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
 
