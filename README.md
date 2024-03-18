@@ -16,7 +16,7 @@
 ##  Finance Report
 **Project objective:**
 
-1. Create Profit and Loss (P&L) reports by [Fiscal Year]()
+1. Create Profit and Loss (P&L) reports by [Fiscal Year]() and Profit and Loss (P&L) reports by [Fiscal Month]()
 
 2. Create Profit and Loss (P&L) reports by [Markets]()
 
