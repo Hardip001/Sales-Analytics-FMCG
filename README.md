@@ -3,7 +3,7 @@
 **Project Goals:**
 
  1. **Customer Performance Report:** Created a detailed [report](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Customer%20Performance%20Report.pdf) to assess customer performance.
- 2. **2. Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
+ 2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/Hardip001/Sales-Analytics-FMCG/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
